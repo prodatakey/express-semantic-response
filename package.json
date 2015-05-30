@@ -1,6 +1,6 @@
 {
   "name": "express-semantic-response",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Remembering which response code to use is error prone and unsexy. Let these semantic response extensions increase your sex-appeal and reduce your error-pronity.",
   "main": "src/index.js",
   "author": "Joshua Perry <josh@pdk.io>",
