@@ -5,6 +5,7 @@
   "main": "src/index.js",
   "author": "Joshua Perry <josh@pdk.io>",
   "license": "MIT",
+  "repository": "prodatakey/express-semantic-response",
   "peerDependencies": {
     "express": ">4.0.0"
   },
